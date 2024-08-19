@@ -1,2 +1,4 @@
 ## Boas vindas ao meu perfil 💙
-meu nome é Sarah
+Meu nome é Sarah;
+Estudo no Ensino Medio;
+Estou Cursando o alura;
